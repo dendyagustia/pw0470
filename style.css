@@ -1,0 +1,29 @@
+.header{
+	margin: 0 auto;
+	width: 900px;
+	height: 120px;
+	background-color: #cc0000;
+}
+.header h1{
+	margin-top: 30px;
+	background-color: #ffff1a;
+	font-family: sans-serif;
+	color: black;
+	text-align: right;
+	float:right;
+	width: 400px;
+	padding: 10px 10px 10px 0;
+
+	
+}
+.header h1 small{
+	font-family: sans-serif;
+	color: black;
+	
+	font-size: 20px;
+}
+.menu li a:hover{
+	color: green;
+	border-bottom:5px solid #fff;
+
+}
